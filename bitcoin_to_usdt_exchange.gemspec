@@ -4,8 +4,7 @@ require_relative "lib/bitcoin_to_usdt_exchange/version"
 
 Gem::Specification.new do |spec|
   spec.name = "bitcoin_to_usdt_exchange"
-  # spec.version = BitcoinToUsdtExchange::VERSION
-  spec.version = "2.0.0"
+  spec.version = BitcoinToUsdtExchange::VERSION
   spec.authors = ["HuanCapital"]
   spec.email = ["nguyenvanhuan243@gmail.com"]
 
